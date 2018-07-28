@@ -1,0 +1,24 @@
+{
+  "name": "noderoute",
+  "version": "1.0.0",
+  "description": "Exploring Routing in NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs",
+    "Node",
+    "Routing",
+    "App"
+  ],
+  "author": "Raj Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql": "^2.16.0",
+    "node": "^10.7.0"
+  }
+}
